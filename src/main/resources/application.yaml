@@ -1,0 +1,3 @@
+spring:
+  application:
+    name: eat-healthy-app-backend
