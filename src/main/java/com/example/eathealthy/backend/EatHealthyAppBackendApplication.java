@@ -1,4 +1,4 @@
-package com.example.eat_healthy_app_backend;
+package com.example.eathealthy.backend;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
